@@ -1,3 +1,8 @@
+# OmniBridgeSync Project Structure
+
+This document represents the directory structure for the **OmniBridgeSync** project.
+
+```text
 OmniBridgeSync/
 │
 ├── assets/
@@ -134,7 +139,7 @@ OmniBridgeSync/
 │   │   ├── MainNavigator.tsx
 │   │   ├── DeveloperNavigator.tsx
 │   │   ├── ClientNavigator.tsx
-│   │   └── navigationTypes.ts
+ East  └── navigationTypes.ts
 │   │
 │   ├── services/
 │   │   │
@@ -184,7 +189,7 @@ OmniBridgeSync/
 │   │   │   └── prototypeEngine.ts
 │   │   │
 │   │   └── visual/
-│   │       ├── visualExplanationEngine.ts
+ East  │       ├── visualExplanationEngine.ts
 │   │       └── diagramEngine.ts
 │   │
 │   ├── ml/
@@ -254,3 +259,4 @@ OmniBridgeSync/
 ├── .env.example
 ├── .gitignore
 └── README.md
+```
